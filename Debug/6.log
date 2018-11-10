@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kopego\source\repos\bsuir_labs\6\source.cpp(15): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\kopego\source\repos\bsuir_labs\6\source.cpp(20): warning C4305: аргумент: усечение из "double" в "float"
+  6.vcxproj -> C:\Users\KopeGo\source\repos\bsuir_labs\Debug\6.exe
